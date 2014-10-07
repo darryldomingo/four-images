@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 2dgame2
+#
+
+projectname: 2dgame2
+vendorid: com.darryl.domingo
+mainmodule: com.darryl.domingo.2dgame2
